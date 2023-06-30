@@ -1,4 +1,4 @@
-# Aily (Ai-recycle)
+# Aily-AIRecycle
 
 Aily (Ai-recycle) is a project focused on addressing the environmental, social, and governance (ESG) challenges of our time. By leveraging AI technology and automation, Aily aims to revolutionize waste management and recycling practices. It provides a sorting and collection device that directly addresses the ESG issues related to waste management.
 
@@ -6,16 +6,18 @@ Aily is a project that utilizes AI (Yolov5) to automate garbage sorting and coll
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Social Impact](#socialimpact)
-- [Addressing Poor Sorting Practices](#addressingpoorsortingpractices)
-- [Reducing Costs and Environmental Impact](reducingcostsandenvinomentalimpact)
-- [Features](#features)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [Conclusion](#conclusion)
-- [Contact](#contact)
+- [Aily-AIRecycle](#aily-airecycle)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Social Impact](#social-impact)
+  - [Addressing Poor Sorting Practices](#addressing-poor-sorting-practices)
+  - [Reducing Costs and Environmental Impact](#reducing-costs-and-environmental-impact)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Contributors](#contributors)
+  - [Acknowledgments](#acknowledgments)
+  - [Conclusion](#conclusion)
+  - [Contact](#contact)
 
 ## Introduction
 
@@ -50,26 +52,28 @@ The proper sorting and recycling of waste will not only contribute to the preser
 
 To install and set up Aily, follow these steps:
 
-1. [Visit https://www.aliy.store]
-2. [SignUp Aily Web or App]
-3. [Authorizing Login]
-4. [Use it !]
+1. [ [Visit Our Website](https://aliy.store) ]
+2. [ SignUp Aily Web or App ]
+3. [ Authorizing Login ]
+4. [ Use it! ]
 
-## Contributing
+## Contributors
 
-The people here are the contributors.
-
-AIot: Lee In-ho, Lee Sanghoon, and Baek Eun-ho
-Back-end: Lee Seung-gyu, Lee Jong-won, Nam Jung-hyun
-Front-end: Shin Yoon-chan, Choi Hyuk-jin, Kim Hyun-hee
-
-
+- [Lee In-ho](https://github.com/2inlee) : Team AIoT - 2023 DMU MIT Club President, Team Leader, Project Manager, AIoT Device Architect, Embedded Developer
+- [Lee Sanghoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web Developer, Web UI/UX Designer, 
+- [Baek EunHo](https://github.com/BackEunHo) : Team AIoT - AI Developer
+- [Shin YoonChan](https://github.com/SHINYOONCHAN) : Team Frontend - iOS/Android Developer
+- [Choi HyukJin](https://github.com/Duxpiex) : Team Frontend - iOS/Android Developer
+- [Kim HyunHee](https://github.com/hyeonhe) : Team Frontend - Web Developer
+- [Lee SeungGyu](https://github.com/vlqhel3440) : Team Backend - Web/App Backend Developer
+- [Lee JongWon](https://github.com/LJW22222) : Team Backend - Web/App Backend Developer
+- [Nam JungHyun](https://github.com/NamJungHyeon) : Team Backend - Web/App Backend Developer
 ## Acknowledgments
 
 We would like to acknowledge the following individuals and resources for their contributions and inspiration to the Aily project:
 
-- [Team Aily]
-- [Team Wevement]
+- [ [Team Aily](https://github.com/Aily-AIRecycle) ]
+- [ [Team Wevement](https://github.com/wevement) ]
 
 ## Conclusion
 
