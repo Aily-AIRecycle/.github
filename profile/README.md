@@ -59,7 +59,7 @@ To install and set up Aily, follow these steps:
 
 The people here are the contributors.
 
-AIot: Lee In-ho, Sanghoon Lee, and Baek Eun-ho
+AIot: Lee In-ho, Lee Sanghoon, and Baek Eun-ho
 Back-end: Lee Seung-gyu, Lee Jong-won, Nam Jung-hyun
 Front-end: Shin Yoon-chan, Choi Hyuk-jin, Kim Hyun-hee
 
