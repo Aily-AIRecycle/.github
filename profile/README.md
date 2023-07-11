@@ -65,7 +65,7 @@ To install and set up Aily, follow these steps:
 - [Shin YoonChan](https://github.com/SHINYOONCHAN) : Team Frontend - iOS/Android Developer
 - [Choi HyukJin](https://github.com/Duxpiex) : Team Frontend - iOS/Android Developer
 - [Kim HyunHee](https://github.com/hyeonhe) : Team Frontend - Web Developer
-- [Lee SeungGyu](https://github.com/vlqhel3440) : Team Backend - Web/App Backend Developer
+- [Lee SeungKyu](https://github.com/vlqhel3440) : Team Backend - Web/App Backend Developer
 - [Lee JongWon](https://github.com/LJW22222) : Team Backend - Web/App Backend Developer
 - [Nam JungHyun](https://github.com/NamJungHyeon) : Team Backend - Web/App Backend Developer
 ## Acknowledgments
