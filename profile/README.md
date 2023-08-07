@@ -7,8 +7,10 @@ Aily is a project that utilizes AI (Yolov5) to automate garbage sorting and coll
 ## Table of Contents
 
 - [Aily-AIRecycle](#aily-airecycle)
+
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [Architecture Schematic][#architecture-schematic)
   - [Social Impact](#social-impact)
   - [Addressing Poor Sorting Practices](#addressing-poor-sorting-practices)
   - [Reducing Costs and Environmental Impact](#reducing-costs-and-environmental-impact)
@@ -24,6 +26,9 @@ Aily is a project that utilizes AI (Yolov5) to automate garbage sorting and coll
 In today's world, the importance of ESG (Environment, Society, and Governance) is widely recognized. Aily project aims to contribute to these areas by tackling waste management challenges. By automatically sorting and collecting garbage based on ESG-related keywords, Aily seeks to promote sustainable practices and minimize the impact of waste on the environment.
 
 Aily (Ai-recycle) is a project aimed at revolutionizing the way garbage is sorted and collected. By leveraging AI (Yolov5), Aily's real hardware is capable of accurately identifying different types of garbage and automating the sorting process. This not only reduces the burden on individuals but also ensures efficient recycling practices.
+
+## Architecture Schematic
+<img src="https://user-images.githubusercontent.com/95608811/258773984-47cc07f8-d173-425a-96d5-4303a5946e73.png">
 
 ## Social Impact
 
@@ -59,15 +64,15 @@ To install and set up Aily, follow these steps:
 
 ## Contributors
 
-- [Lee In-ho](https://github.com/2inlee) : Team AIoT - 2023 DMU MIT Club President, Team Leader, Project Manager, AIoT Device Architect, Embedded Developer
-- [Lee Sanghoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web Developer, Web UI/UX Designer, 
+- [Lee Inho](https://github.com/2inlee) : Team AIoT - 2023 DMU MIT Club President, Team Leader, Project Manager, AIoT Device Architect, Embedded Developer
+- [Lee Sanghoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web Developer, Web UI/UX Designer
 - [Baek EunHo](https://github.com/BackEunHo) : Team AIoT - AI Developer
 - [Shin YoonChan](https://github.com/SHINYOONCHAN) : Team Frontend - iOS/Android Developer
 - [Choi HyukJin](https://github.com/Duxpiex) : Team Frontend - iOS/Android Developer
 - [Kim HyunHee](https://github.com/hyeonhe) : Team Frontend - Web Developer
 - [Lee SeungKyu](https://github.com/vlqhel3440) : Team Backend - Web/App Backend Developer
 - [Lee JongWon](https://github.com/LJW22222) : Team Backend - Web/App Backend Developer
-- [Nam JungHyun](https://github.com/NamJungHyeon) : Team Backend - Web/App Backend Developer
+- [Nam JungHyun](https://github.com/NamJungHyeon) : Team Backend - Web/App FullStackDeveloper,ServerDeveloper
 ## Acknowledgments
 
 We would like to acknowledge the following individuals and resources for their contributions and inspiration to the Aily project:
