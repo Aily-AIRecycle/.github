@@ -10,12 +10,12 @@ Aily is a project that utilizes AI (Yolov5) to automate garbage sorting and coll
 
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [Architecture Schematic][#architecture-schematic)
+  - [Architecture Schematic](#architecture-schematic)
   - [Social Impact](#social-impact)
   - [Addressing Poor Sorting Practices](#addressing-poor-sorting-practices)
   - [Reducing Costs and Environmental Impact](#reducing-costs-and-environmental-impact)
   - [Features](#features)
-  - [Installation](#installation)
+  - [Distribution](#distribution)
   - [Contributors](#contributors)
   - [Acknowledgments](#acknowledgments)
   - [Conclusion](#conclusion)
@@ -26,6 +26,8 @@ Aily is a project that utilizes AI (Yolov5) to automate garbage sorting and coll
 In today's world, the importance of ESG (Environment, Society, and Governance) is widely recognized. Aily project aims to contribute to these areas by tackling waste management challenges. By automatically sorting and collecting garbage based on ESG-related keywords, Aily seeks to promote sustainable practices and minimize the impact of waste on the environment.
 
 Aily (Ai-recycle) is a project aimed at revolutionizing the way garbage is sorted and collected. By leveraging AI (Yolov5), Aily's real hardware is capable of accurately identifying different types of garbage and automating the sorting process. This not only reduces the burden on individuals but also ensures efficient recycling practices.
+
+<img src="https://github.com/Aily-AIRecycle/.github/assets/101442533/bc3e24ca-30a8-44b1-87ae-a1a9916c02dd.png">
 
 ## Architecture Schematic
 <img src="https://user-images.githubusercontent.com/95608811/258773984-47cc07f8-d173-425a-96d5-4303a5946e73.png">
@@ -53,26 +55,23 @@ The proper sorting and recycling of waste will not only contribute to the preser
 - **Real-time Garbage Collection and Tracking:** The hardware component of Aily collects the sorted garbage in real-time, providing an efficient and convenient recycling solution.
 - **Mobile App and Web Interface:** Aily offers both a mobile app and a web interface. Users can track the amount of garbage they have thrown away, view the locations of Aily installations on a map, and access additional features.
 
-## Installation
+## Distribution
 
-To install and set up Aily, follow these steps:
-
-1. [ [Visit Our Website](https://aliy.store) ]
-2. [ SignUp Aily Web or App ]
-3. [ Authorizing Login ]
-4. [ Use it! ]
+1. [[Web - ailymit.store](https://ailymit.store)]
+2. [App - playstore]
 
 ## Contributors
 
 - [Lee Inho](https://github.com/2inlee) : Team AIoT - 2023 DMU MIT Club President, Team Leader, Project Manager, AIoT Device Architect, Embedded Developer
-- [Lee Sanghoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web Developer, Web UI/UX Designer
+- [Lee Sanghoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web UI/UX Designer, Web Frontend Developer
 - [Baek EunHo](https://github.com/BackEunHo) : Team AIoT - AI Developer
-- [Shin YoonChan](https://github.com/SHINYOONCHAN) : Team Frontend - iOS/Android Developer
-- [Choi HyukJin](https://github.com/Duxpiex) : Team Frontend - iOS/Android Developer
-- [Kim HyunHee](https://github.com/hyeonhe) : Team Frontend - Web Developer
+- [Shin YoonChan](https://github.com/SHINYOONCHAN) : Team Frontend - iOS/Android App Fullstack Developer
+- [Choi HyukJin](https://github.com/Duxpiex) : Team Frontend - iOS/Android App Frontend Developer, Web Frontend Developer
+- [Kim HyunHee](https://github.com/hyeonhe) : Team Frontend - Web Frontend Developer
 - [Lee SeungKyu](https://github.com/vlqhel3440) : Team Backend - Web/App Backend Developer
-- [Lee JongWon](https://github.com/LJW22222) : Team Backend - Web/App Backend Developer
-- [Nam JungHyun](https://github.com/NamJungHyeon) : Team Backend - Web/App FullStackDeveloper,ServerDeveloper
+- [Lee JongWon](https://github.com/LJW22222) : Team Backend - Web Fullstack Developer, App Backend Developer, Server Developer
+- [Nam JungHyun](https://github.com/NamJungHyeon) : Team Backend - Web/App Backend Developer
+
 ## Acknowledgments
 
 We would like to acknowledge the following individuals and resources for their contributions and inspiration to the Aily project:
