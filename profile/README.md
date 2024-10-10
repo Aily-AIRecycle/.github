@@ -55,10 +55,6 @@ The proper sorting and recycling of waste will not only contribute to the preser
 - **Real-time Garbage Collection and Tracking:** The hardware component of Aily collects the sorted garbage in real-time, providing an efficient and convenient recycling solution.
 - **Mobile App and Web Interface:** Aily offers both a mobile app and a web interface. Users can track the amount of garbage they have thrown away, view the locations of Aily installations on a map, and access additional features.
 
-## Distribution
-
-1. [[Web - ailymit.store](https://ailymit.store)]
-2. [App - playstore]
 
 ## Contributors
 
