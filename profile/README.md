@@ -58,8 +58,8 @@ The proper sorting and recycling of waste will not only contribute to the preser
 
 ## Contributors
 
-- [Lee Inho](https://github.com/2inlee) : Team AIoT - 2023 DMU MIT Club President, Team Leader, Project Manager, AIoT Device Architect, Embedded Developer
-- [Lee Sanghoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web UI/UX Designer, Web Frontend Developer
+- [Lee InHo](https://github.com/2inlee) : Team AIoT - 2023 DMU MIT Club President, Team Leader, Project Manager, AIoT Device Architect, Embedded Developer
+- [Lee SangHoon](https://github.com/dltkdgns00) : Team AIoT - AIoT Device Architect, Embedded Developer, Kiosk Developer, Web UI/UX Designer, Web Frontend Developer
 - [Baek EunHo](https://github.com/BackEunHo) : Team AIoT - AI Developer
 - [Shin YoonChan](https://github.com/SHINYOONCHAN) : Team Frontend - iOS/Android App Fullstack Developer
 - [Choi HyukJin](https://github.com/Duxpiex) : Team Frontend - iOS/Android App Frontend Developer, Web Frontend Developer
